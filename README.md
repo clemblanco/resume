@@ -10,7 +10,7 @@ Ultimately, I enjoy producing solid, meaningful products.
 
 ## Experience
 
-### » Technical Lead at [Cyber-Duck](https://www.cyber-duck.co.uk)
+### » Technical Lead at [Cyber-Duck](https://www.cyber-duck.co.uk/)
 #### March 2017 - Present
 
 - Working at every technical level of a project, from supervision to implementation, working closely with the project manager, our DevOps team, and the developers
@@ -18,21 +18,21 @@ Ultimately, I enjoy producing solid, meaningful products.
 - Developing applications in object oriented PHP frameworks like Laravel using TDD and SOLID principles (just to name a few)
 - Developing and deploying mobile applications for clients using technologies like Appcelerator Titanium, Node.js and Web APIs
 
-### » Senior Web & Mobile Developer at Cyber-Duck
+### » Senior Web & Mobile Developer at [Cyber-Duck](https://www.cyber-duck.co.uk/)
 #### March 2014 - March 2017
 
 - Progressing from junior to senior, taking responsibility for retainer projects and project management
 - Developing applications in object oriented PHP frameworks like CodeIgniter, Laravel, and Silverstripe
 - Working with other technologies like Appcelerator Titanium and Node.js, especially for R&D projects like UX Companion, a glossary of user experience terminology downloaded more than 50,000 times
 
-### » Web & Mobile Developer at Novaway
+### » Web & Mobile Developer at [Novaway](https://www.novaway.fr/)
 #### January 2011 - March 2014
 
 - Transitioned to a full time web developer after a one year training contract while finishing my M.Sc thesis on modern web development and responsive web design
 - Full stack web developer using technologies like Git, OOP, PHP5, JavaScript, Symfony 2, Drupal 7, Sass and jQuery.
 - First applied Agile methodology, project management, and account management for a small team of four
 - First experimented with truly native mobile development, using the emerging Appcelerator Titanium platform
-- Contributed to the open-source movement and web dev community by writing articles for lafermeduweb.net and volunteering at conferences like the Blend Web Mix and La Cuisine Du Web.
+- Contributed to the open-source movement and web dev community by writing articles for [lafermeduweb.net](http://www.lafermeduweb.net/) and volunteering at conferences like the [Blend Web Mix](https://www.blendwebmix.com/en/) and [La Cuisine Du Web](https://www.lacuisineduweb.com/)
 
 ## Skills & Technologies
 
