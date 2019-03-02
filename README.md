@@ -1,4 +1,4 @@
-# Hey, I'm Clem. 👋
+# Hey, I'm Clem 👋
 
 I’m a passionate software developer producing efficient applications for web and mobile, using best practices and innovative technologies.
 
@@ -6,12 +6,20 @@ I strive for maintainable products, clean and efficient codebases, and well orga
 
 Naturally curious, I work to maintain a broad range of skills, from web and mobile tech, to DevOps, to team development.
 
-Ultimately, I enjoy producing solid, meaningful products.
+Ultimately, I enjoy producing beautiful, clean, solid and meaningful products.
 
 ## Experience
 
+### » Software Engineer - Full Stack Developer at [fuseAware](https://www.fuseaware.com)
+#### November 2018 - present
+
+- Responsible for the scoping, refactoring and ongoing development of the fuseAware back-end application using Laravel, VueJS and TDD, in an Agile environment
+- Helping streamline the software and infrastucture architecture in order to improve scalability and maintainability of the back-end application
+- Ensuring the back-end application meets the KPIs defined for performance and uptime, and that the code deployed is tested, reliable and fit for purpose
+
+
 ### » Technical Lead at [Cyber-Duck](https://www.cyber-duck.co.uk/)
-#### March 2017 - Present
+#### March 2017 - October 2018
 
 - Working at every technical level of a project, from supervision to implementation, working closely with the project manager, our DevOps team, and the developers
 - Responsible for overseeing the expertise of the tech department by establishing standards, and streamlining processes and toolchains
