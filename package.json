@@ -16,7 +16,8 @@
     "url": "https://github.com/clemblanco/resume/issues"
   },
   "homepage": "https://github.com/clemblanco/resume#readme",
-  "dependencies": {
-    "md-to-pdf": "^5.1.0"
+  "devDependencies": {
+    "md-to-pdf": "5.1.0",
+    "ansi-regex": "5.0.1"
   }
 }
