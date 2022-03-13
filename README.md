@@ -1,4 +1,4 @@
-# Hey, I'm Clem :wave:
+# Hey, I'm Clem
 
 I’m a passionate software developer producing efficient applications for web and mobile, using best practices and innovative technologies.
 
