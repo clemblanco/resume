@@ -2,8 +2,6 @@ name: Publish README.pdf
 
 on:
   push:
-    paths:
-      - README.md
 
 jobs:
   publish:
