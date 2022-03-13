@@ -19,8 +19,5 @@ jobs:
         with:
           name: output
           path: ./
-      - name: Commit README.pdf
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Publish README.pdf
-          file_pattern: README.pdf
+      - uses: stefanzweifel/git-auto-commit-action@v4
+
