@@ -12,7 +12,7 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v2.0.0
       - name: Generate README.pdf
-        uses: scottypate/md-to-pdf@v0.1.1
+        uses: scottypate/md-to-pdf@slashformotion:master
         env: {
           PDF_DIR: './'
         }
