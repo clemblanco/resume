@@ -9,14 +9,17 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2.0.0
+      - name: Checkout Code
+        uses: actions/checkout@v2.0.0
         with:
           fetch-depth: 1
-      - uses: scottypate/md-to-pdf@v0.1.1
+      - name: Generate README.pdf
+        uses: scottypate/md-to-pdf@v0.1.1
         env: {
           PDF_DIR: ./
         }
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Commit README.pdf
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Publish README.pdf
           file_pattern: README.pdf
