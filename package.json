@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/clemblanco/resume#readme",
   "devDependencies": {
-    "md-to-pdf": "5.1.0",
-    "ansi-regex": "5.0.1"
+    "md-to-pdf": "^5.1.0",
+    "ansi-regex": ">=5.0.1"
   }
 }
