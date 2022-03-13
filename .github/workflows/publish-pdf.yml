@@ -12,10 +12,10 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v2.0.0
       - name: Generate README.pdf
-        uses: mkrakowitzer/actions-makepdfs@master
-        with:
-          markdown_dir: ./
-          output_dir: ./
+        uses: scottypate/md-to-pdf@v0.1.1
+        env: {
+          PDF_DIR: './'
+        }
       - name: Commit README.pdf
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
