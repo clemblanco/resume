@@ -1,0 +1,22 @@
+name: Publish README.pdf
+
+on:
+  push:
+    paths:
+      - README.md
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2.0.0
+        with:
+          fetch-depth: 1
+      - uses: scottypate/md-to-pdf@v0.1.1
+        env: {
+          PDF_DIR: ./
+        }
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Publish README.pdf
+          file_pattern: README.pdf
