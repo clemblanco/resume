@@ -6,6 +6,21 @@ Naturally curious and mission driven, I work to maintain a broad range of skills
 
 Ultimately, I enjoy producing beautiful, clean, solid and meaningful products as a team.
 
+## Skills & Technologies
+
+### Core
+
+- Laravel
+- React / Vue
+
+#### Extended
+
+`AWS`, `Bash`, `Chef`, `CI/CD Pipelines`, `deployphp/deployer`, `Detox`, `Docker`, `Elasticsearch`, `Express`, `GitHub Actions`, `Grunt / Gulp / Webpack`, `Inertia`, `Jest`, `Lambda`, `MySQL`, `Node.js`, `PHPUnit`, `Progressive Web Apps`, `PubSub`, `Push Notifications`, `Queues`, `React Native`, `Redis`, `RESTful APIs`, `Serverless`, `Terraform`, `TypeScript`, `Vagrant`...
+
+### Other skills
+
+`Architecture and prototyping`, `Code Review`, `DevOps`, `Group and workshop facilitation`, `Linux server administration`, `Open Source contributor`, `Package development`, `Pair programming`, `Peer leadership`, `TDD`, `Writing documentation`...
+
 ## Experience
 
 ### » Technical Lead - Full Stack at [Pod Point](https://pod-point.com)
@@ -46,32 +61,6 @@ Ultimately, I enjoy producing beautiful, clean, solid and meaningful products as
 - Progressing from junior to senior, taking responsibility for retainer projects and project management
 - Developing applications in object oriented PHP frameworks like CodeIgniter, Laravel, and Silverstripe
 - Working with other technologies like Appcelerator Titanium and Node.js, especially for R&D projects like UX Companion, a glossary of user experience terminology downloaded more than 50,000 times
-
-## Skills & Technologies
-
-### Core
-
-- Laravel
-- React / Vue
-- Inertia
-- React Native
-
-#### Extended
-
-`AWS`, `Bash`, `Chef`, `CI/CD Pipelines`, `deployphp/deployer`, `Detox`, `Docker`, `Elasticsearch`, `Express`, `GitHub Actions`, `Grunt / Gulp / Webpack`, `Jest`, `Lambda`, `Linux server administration`, `MySQL`, `Node.js`, `PHPUnit`, `Progressive Web Apps`, `PubSub`, `Push Notifications`, `Queues`, `Redis`, `RESTful APIs`, `Serverless`, `Terraform`, `TypeScript`, `Vagrant`...
-
-### Other skills
-
-- TDD
-- DevOps
-- Code Review
-- Peer leadership
-- Pair programming
-- Package development
-- Writing documentation
-- Open Source contributor
-- Architecture and prototyping
-- Group and workshop facilitation
 
 ## Get in touch
 
