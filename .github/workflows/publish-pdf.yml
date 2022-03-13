@@ -12,9 +12,11 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v2.0.0
       - name: Generate README.pdf
-        uses: shrink/actions-document-publish@v1
+        uses: rseng/pdf-generator@v0.0.4
         with:
-          sources: 'README.md'
+          paper_markdown: README.md
+          paper_outfile: README.pdf
+          pdf_type: minimal
       - name: Commit README.pdf
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
