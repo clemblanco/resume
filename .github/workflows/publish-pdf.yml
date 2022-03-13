@@ -14,7 +14,7 @@ jobs:
       - name: Generate README.pdf
         uses: docker://pandoc/latex:2.9
         with:
-          args: README.md --standalone --output=README.pdf
+          args: "--standalone --output=README.pdf README.md"
       - name: Commit README.pdf
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
