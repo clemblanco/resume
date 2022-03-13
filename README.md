@@ -29,9 +29,9 @@ Ultimately, I enjoy producing beautiful, clean, solid and meaningful products as
 - Contribute on recruitment with improved technical tests and processes while growing into three squads
 - Leading and mentoring the B2B squad, setting high standards in an open and effective environment
 - Facilitate the production of technical specifications and prototypes in a collaborative manner whilst remaining an individual contributor to the squad, focusing on both short and long term goals
-- Help on various DevOps tasks during an interim when trying to build a dedicated DevOps team
-- Responsible to organise R&D as well as maintaining various private and open source packages
 - Upgrade and modernise Laravel applications using Inertia and React within GitHub Actions pipelines
+- Responsible to organise R&D as well as maintaining various private and open source packages
+- Involved with DevOps and Cyber Security after building a dedicated DevOps team
 
 ### » Senior Software Engineer - Full Stack at [Pod Point](https://pod-point.com)
 #### April 2019 - January 2020
@@ -44,7 +44,7 @@ Ultimately, I enjoy producing beautiful, clean, solid and meaningful products as
 #### November 2018 - April 2019
 
 - Responsible for the scoping, refactoring and ongoing development of the fuseAware back-end application using Laravel, Vue and TDD, in an Agile environment
-- Helping streamline the software and infrastucture architecture in order to improve scalability and maintainability of the back-end application
+- Streamlining the software and infrastucture architecture in order to improve scalability and maintainability of the back-end application
 - Ensuring the back-end application meets the KPIs defined for performance and uptime, and that the code deployed is tested, reliable and fit for purpose
 
 ### » Technical Lead at [Cyber-Duck](https://www.cyber-duck.co.uk)
