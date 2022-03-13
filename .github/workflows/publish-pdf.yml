@@ -15,6 +15,10 @@ jobs:
         uses: docker://pandoc/latex:2.9
         with:
           args: "--standalone --output=README.pdf README.md"
+      - uses: actions/upload-artifact@master
+        with:
+          name: output
+          path: ./
       - name: Commit README.pdf
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
