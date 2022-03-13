@@ -2,9 +2,7 @@
 
 I’m a passionate software engineer, producing efficient applications using best practices and innovative technologies. I strive for maintainable products, efficient codebases and well organised teams where standards, tools, and processes smooth the development to deployment journey.
 
-Naturally curious and mission driven, I work to maintain a broad range of skills, from web and mobile tech, to DevOps, to team development, while keeping open source close to my heart.
-
-Ultimately, I enjoy producing beautiful, clean, solid and meaningful products as a team.
+Naturally curious and mission driven, I work to maintain a broad range of skills, from web and mobile tech, to DevOps, to team development, while keeping open source close to my heart. Ultimately, I enjoy producing beautiful, clean, solid and meaningful products as a team.
 
 ## Skills & Technologies
 
