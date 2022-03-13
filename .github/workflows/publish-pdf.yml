@@ -12,7 +12,7 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v2.0.0
       - name: Generate README.pdf
-        uses: rseng/pdf-generator@v0.0.4
+        uses: rseng/pdf-generator@0.0.4
         with:
           paper_markdown: README.md
           paper_outfile: README.pdf
