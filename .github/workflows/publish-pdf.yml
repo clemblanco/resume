@@ -12,10 +12,9 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v2.0.0
       - name: Generate README.pdf
-        uses: scottypate/md-to-pdf@slashformotion:master
-        env: {
-          PDF_DIR: './'
-        }
+        uses: docker://pandoc/latex:2.9
+        with:
+          args: --output=README.pdf README.md
       - name: Commit README.pdf
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
