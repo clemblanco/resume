@@ -12,11 +12,10 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v2.0.0
       - name: Generate README.pdf
-        uses: rseng/pdf-generator@0.0.4
+        uses: mkrakowitzer/actions-makepdfs@master
         with:
-          paper_markdown: README.md
-          paper_outfile: README.pdf
-          pdf_type: minimal
+          markdown_dir: ./
+          output_dir: ./
       - name: Commit README.pdf
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
