@@ -15,7 +15,7 @@ Ultimately, I enjoy producing beautiful, clean, solid and meaningful products as
 
 - Help on technical recruitment with improved technical tests and processes while growing into three squads
 - Leading and mentoring the B2B squad, setting high standards in an open and effective environment
-- Facilitate the production of technical specifications and prototypes in a collaborative manner whilst remaining an individual contributor to the squad
+- Facilitate the production of technical specifications and prototypes in a collaborative manner whilst remaining an individual contributor to the squad, focusing on both short and long term goals
 - Help on various DevOps tasks during an interim when trying to build a dedicated DevOps team
 - Contributing to organise R&D as well as maintaining various private and open source packages
 - Upgrade and modernise Laravel applications using Inertia and React within GitHub Actions pipelines
