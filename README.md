@@ -25,12 +25,27 @@ Naturally curious, I work to maintain a broad range of skills, from architecture
 ### » Technical Lead - Full Stack at [Pod Point](https://pod-point.com)
 #### January 2020 - January 2025
 
--
+- Led 4 successive squads of 3 to 5 engineers in an Agile environment, very much hands-on, focusing on various areas of the business, primarily B2C and B2B activities such as eCommerce, fleet management and partnerships. Liaised with the Product Owner, Domain Architect, and Agile Delivery Manager to scope incoming sprints from a technical perspective.
+- Setting high standards in an open and effective environment, ensuring high code quality through tooling, coding standards, and code reviews while avoiding becoming a bottleneck. Facilitate the production of technical specifications, documentation and prototypes in a collaborative manner whilst remaining an individual contributor with back-end and front-end development, focusing on both short and long term goals.
+- Commit to various modernisations and improvements within our estate and collaborate with Product Owners to meet both business and quality objectives.
+- Revamped the existing Laravel 5.4 Authentication Service into a centralised Account Service using Laravel 8+, Inertia, React, Single Sign-On (SSO), Multi-Factor Authentication (MFA), RESTful APIs, and PubSub event-driven patterns. Implemented a modern CI pipeline using GitHub Actions on top of it.
+- Integrated with Google Identity Platform (Firebase) to roll out SSO and MFA authentication capabilities in an existing Laravel application, utilising feature flag functionalities from our own open-source Laravel package for ConfigCat SaaS.
+- Led the development and refactoring of a complex eCommerce business function in an event-driven environment, using PubSub patterns, integrating with BigCommerce's headless API, Prismic CMS, and Salesforce, serving a SPA built with Gatsby and React on AWS Amplify. Managed technical debt, including decommissioning Redux and implementing React Query to unify and simplify the state management. Work hand in hand with customer support in order to build from the ground up monitoring, metrics, alerting and tooling to help troubleshooting issues and improve both our support and our systems using OpsGenie, AWS CloudWatch, Sentry, and MS Clarity. Coordinated feature releases through VWO A/B testing. Overhauled development workflows and pipelines, transitioning from long-lived branches and manual deployments to trunk-based development, deployed automatically via CI, with vanity URLs and fully GitOps-managed through GitHub Actions. Implemented Lighthouse CI Server and reporting within the CI pipeline. Coordinated the migration to GA4 through GTM and maintained the internal proxy using the Serverless Framework, processing SQS queues and forwarding HTTP calls via AWS Lambda.
+- Own and maintain AWS accounts and resources provisioned via infrastructure as code for our domain within a distributed architecture
+- Facilitated and contributed to the migration of a dozen applications (Laravel and Node.js) from legacy infrastructure to a new environment using Terraform, Docker, and AWS ECS, following AWS security and architecture practices, alongside the implementation of new CI pipelines with GitHub Actions.
+- Created and maintained open-source Laravel packages to address various technical challenges faced by the business.
+- Scoped, planned, and developed integrations to support specific companies in our main Partnership portal using Laravel, enabling the onboarding of 1000+ partners.
+- Continued to drive technical recruitment by developing additional technical tests (challenges) and conducting interviews, scaling the software department to 50+ and contributing to the company’s acquisition and IPO.
 
 ### » Senior Software Engineer - Full Stack at [Pod Point](https://pod-point.com)
 #### April 2019 - January 2020
 
-- 
+- Joined a small team to assist with prototyping, developing, and deploying new features in an Agile environment for eight Laravel applications, alongside several Node.js, AWS Lambda, and React SPA applications. Contributed across all levels of the software department, covering areas from network (IoT communications and telemetry) to B2C and B2B.
+- Organised and participated in bi-weekly engineering and learning sessions (R&D) across two to three squads, assisting peers with outcomes such as presentations, open-source contributions, and internal tooling development. Served as a member and speaker at the internal Architecture Steering Group.
+- Contributed to maintaining a high-volume IoT data pipeline via Lambda (using the Serverless framework), Kinesis Streams, and SNS/SQS, consumed by a single Laravel application. Participated in the ongoing development of the mobile application using React Native and coordinated efforts to cover it with Detox end-to-end tests, complementing existing unit tests.
+- Designed and crafted technical tests (challenges) for full-stack, front-end, DevOps, and mobile engineers, and contributed to the recruitment process by preparing and conducting technical interviews. Helped scale the team from six engineers in one squad to eighteen engineers across three squads.
+- Implemented AWS solutions and maintained DevOps practices, including EC2 provisioning and deployments, as well as RDS, Elasticsearch, and CloudFront management. Took ownership of the legacy infrastructure as code (IaC) built with AWS OpsWorks and Chef, maintaining it while establishing a dedicated DevOps team.
+- Took over and successfully completed the development of a Node.js application using Express and MongoDB, providing public charging information via the OCPI protocol. The project was initially developed by contractors.
 
 ### » Software Engineer - Full Stack at [fuseAware](https://www.fuseaware.com)
 #### November 2018 - April 2019
