@@ -1,45 +1,36 @@
 # Hey, I'm Clem 👋
 
-I’m a passionate software engineer, producing efficient applications using best practices and technologies which empower teams. I strive for maintainable products, efficient codebases, simplicity and well organised teams where standards, tools, and processes facilitate the development to deployment journey.
+[LinkedIn](https://www.linkedin.com/in/clemblanco) | [Twitter](https://twitter.com/clemblanco) | [Email](mailto:mail@clem.io)
 
-Naturally curious and mission driven, I work to maintain a broad range of skills, while keeping open source close to my heart. Ultimately, I enjoy producing beautiful, clean, solid and meaningful products as a team.
+I’m a passionate software developer who loves solving problems. I strive for maintainable user-centric products, clean and efficient codebases, and high-performing teams where standards, tools, and processes smooth the development to deployment journey.
 
+Naturally curious, I work to maintain a broad range of skills, from architecture to web and mobile tech, to DevOps, to team development. I'm a big fan of Laravel, praise open source and contribute when possible. Ultimately, I enjoy producing solid, meaningful products.
 ## Skills & Technologies
 
 ### Core
 
 - Laravel (PHP)
-- React / Vue (TypeScript)
+- React / Vue / Node.js (TypeScript)
 
 #### Extended
 
-`AWS`, `Bash`, `Chef`, `CI/CD Pipelines`, `deployphp/deployer`, `Detox`, `Docker`, `Elasticsearch`, `Express`, `GitHub Actions`, `Grunt / Gulp / Webpack`, `Inertia`, `Jest`, `Lambda`, `MySQL`, `Node.js`, `PHPUnit`, `Progressive Web Apps`, `PubSub`, `Push Notifications`, `Queues`, `React Native`, `RESTful APIs`, `Serverless`, `Terraform`, `TypeScript`, `Gatsby`...
+`Algolia`, `AWS`, `AWS Amplify`, `AWS CloudFront`, `AWS CloudWatch`, `AWS ECS`, `AWS EventBridge`, `AWS Lambda`, `AWS SNS`, `AWS SQS`, `Bash`, `Chef`, `Detox`, `Docker`, `Elasticsearch`, `Express`, `Gatsby`, `GitHub Actions`, `Grafana`, `GraphQL`, `Grunt / Gulp / Webpack`, `Inertia`, `Jest`, `Node.js`, `Pest`, `PHPUnit`, `Progressive Web Apps`, `PubSub`, `Push Notifications`, `React Native`, `RESTful APIs`, `Serverless Framework`, `Terraform`, `TDD`, `TypeScript`...
 
 ### Other skills
 
-`Architecture and prototyping`, `Code Review`, `DevOps`, `Group and workshop facilitation`, `Linux server administration`, `Open Source contributor`, `Package development`, `Pair and mob programming`, `Peer leadership`, `TDD`, `Documentation`...
+`Architecture and prototyping`, `Code Review`, `DevOps`, `Group and workshop facilitation`, `Linux server administration`, `Mentoring`, `Observability`, `Open Source development`, `Package development`, `Pair and mob programming`, `Peer leadership`, `Documentation`...
 
 ## Experience
 
 ### » Technical Lead - Full Stack at [Pod Point](https://pod-point.com)
-#### January 2020 - present
+#### January 2020 - January 2025
 
-- Contribute on recruitment with improved technical tests and processes while growing from 20 to 100+ staff within the technology department
-- Leading and mentoring a B2B squad, setting high standards in an open and effective environment
-- Facilitate the production of technical specifications and prototypes in a collaborative manner whilst remaining an individual contributor with backend and frontend development, focusing on both short and long term goals
-- Upgrade and modernise Laravel applications using Inertia and React alongside GitHub Actions pipelines
-- Responsible to organise R&D as well as maintaining various private and public open source packages
-- Keep developing various commercial products powered by Laravel, Serverless and Gatsby involving various third party integrations
-- Commit to various modernisations and improvements within our estate and collaborate with product owners to meet both business and quality objectives
-- Work hand in hand with customer support in order to improve monitoring, alerting and tooling to help troubleshooting issues and improve both our support and our systems
-- Own and maintain AWS accounts and resources provisioned via infrastructure as code for our domain within a distributed architecture
+-
 
 ### » Senior Software Engineer - Full Stack at [Pod Point](https://pod-point.com)
 #### April 2019 - January 2020
 
-- Joined a small team to help prototyping, developing and deploying in an agile environment on various internal and external RESTful APIs, microservices and web/mobile applications for a range of stakeholders using Laravel and React(Native)
-- Implement AWS solutions and maintain DevOps practices such as EC2 provisioning and deployment with Chef/OpsWorks - Elasticsearch, RDS and Cloudfront management - Cloudwatch
-- Contribute to maintain a very high-volume IoT data pipeline via Lambda (w/ Serverless framework), Kinesis Streams and SNS/SQS consumed by Laravel applications
+- 
 
 ### » Software Engineer - Full Stack at [fuseAware](https://www.fuseaware.com)
 #### November 2018 - April 2019
@@ -63,7 +54,35 @@ Naturally curious and mission driven, I work to maintain a broad range of skills
 - Developing applications in object oriented PHP frameworks like CodeIgniter, Laravel, and Silverstripe
 - Working with other technologies like Appcelerator Titanium and Node.js, especially for R&D projects like UX Companion, a glossary of user experience terminology downloaded more than 50,000 times
 
-## Get in touch
+## Open Source Contributions
 
-- [Email](mailto:mail@clem.io)
-- [Twitter](https://twitter.com/clemblanco)
+Here are a few open source contributions I'm pretty proud of.
+
+### ConfigCat package for Laravel
+
+Create and maintain a community package for ConfigCat feature flag Saas, getting the Laravel logo onto ConfigCat's homepage along the way.
+
+- https://github.com/pod-point/laravel-configcat
+- https://configcat.com/docs/sdk-reference/community/laravel
+
+### Laravel 8.52 Contribution - Laravel News
+
+Article: https://laravel-news.com/laravel-8-52-0#content-model-broadcasting-methods
+
+- Model Broadcasting - Adding broadcastWith() and broadcastAs() support ([#38137](https://github.com/laravel/framework/pull/38137))
+- Ability to specify the broadcaster to use when broadcasting an event ([#38086](https://github.com/laravel/framework/pull/38086))
+
+### Laravel Mail Export - Laravel News
+
+Article: https://laravel-news.com/laravel-mail-export
+
+- https://github.com/Pod-Point/laravel-mail-export
+
+### Laravel AWS PubSub - Laravel Package
+
+- https://github.com/Pod-Point/laravel-aws-pubsub
+
+### Laravel Contributions
+
+- Framework: https://github.com/laravel/framework/pulls?q=author%3Aclemblanco
+- Docs: https://github.com/laravel/docs/pulls?q=author%3Aclemblanco
