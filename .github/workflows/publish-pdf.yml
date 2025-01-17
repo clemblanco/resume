@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
-      - run: npm i -g md-to-pdf
+      - run: npm i -g md-to-pdf@5.2.4
       - run: md-to-pdf -- README.md
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
