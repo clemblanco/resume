@@ -1,6 +1,6 @@
 # Hey, I'm Clem 👋
 
-[LinkedIn](https://www.linkedin.com/in/clemblanco) | [Twitter](https://twitter.com/clemblanco) | [Email](mailto:mail@clem.io)
+[LinkedIn](https://www.linkedin.com/in/clemblanco) | [X](https://x.com/clemblanco) | [Email](mailto:mail@clem.io)
 
 I’m a passionate software developer who loves solving problems. I strive for maintainable user-centric products, clean and efficient codebases, and high-performing teams where standards, tools, and processes smooth the development to deployment journey.
 
@@ -14,7 +14,7 @@ Naturally curious, I work to maintain a broad range of skills, from architecture
 
 #### Extended
 
-`Algolia`, `AWS`, `AWS Amplify`, `AWS CloudFront`, `AWS CloudWatch`, `AWS ECS`, `AWS EventBridge`, `AWS Lambda`, `AWS SNS`, `AWS SQS`, `Bash`, `Chef`, `Detox`, `Docker`, `Elasticsearch`, `Express`, `Gatsby`, `GitHub Actions`, `Grafana`, `GraphQL`, `Grunt / Gulp / Webpack`, `Inertia`, `Jest`, `Node.js`, `Pest`, `PHPUnit`, `Progressive Web Apps`, `PubSub`, `Push Notifications`, `React Native`, `RESTful APIs`, `Serverless Framework`, `Terraform`, `TDD`, `TypeScript`...
+`Algolia`, `AWS`, `AWS Amplify`, `AWS CloudFront`, `AWS CloudWatch`, `AWS ECS`, `AWS EventBridge`, `AWS Lambda`, `AWS SNS`, `AWS SQS`, `Bash`, `BigCommerce`, `Chef`, `Craft CMS`, `Detox`, `Docker`, `Elasticsearch`, `Express`, `Gatsby`, `GitHub Actions`, `Grafana`, `GraphQL`, `Grunt / Gulp / Webpack`, `Inertia`, `Jest`, `Node.js`, `Pest`, `PHPUnit`, `Prismic`, `Progressive Web Apps`, `PubSub`, `Push Notifications`, `React Native`, `RESTful APIs`, `Serverless Framework`, `Terraform`, `TDD`, `TypeScript`...
 
 ### Other skills
 
