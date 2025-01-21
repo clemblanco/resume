@@ -14,11 +14,11 @@ Naturally curious, I work to maintain a broad range of skills, from architecture
 
 #### Extended
 
-`Algolia`, `AWS`, `AWS Amplify`, `AWS CloudFront`, `AWS CloudWatch`, `AWS ECS`, `AWS EventBridge`, `AWS Lambda`, `AWS SNS`, `AWS SQS`, `Bash`, `BigCommerce`, `Chef`, `Craft CMS`, `Detox`, `Docker`, `Elasticsearch`, `Express`, `Gatsby`, `GitHub Actions`, `Grafana`, `GraphQL`, `Grunt / Gulp / Webpack`, `Inertia`, `Jest`, `Node.js`, `Pest`, `PHPUnit`, `Prismic`, `Progressive Web Apps`, `PubSub`, `Push Notifications`, `React Native`, `RESTful APIs`, `Serverless Framework`, `Terraform`, `TDD`, `TypeScript`...
+`Algolia`, `AWS`, `AWS Amplify`, `AWS CloudFront`, `AWS CloudWatch`, `AWS ECS`, `AWS EventBridge`, `AWS Lambda`, `AWS SNS`, `AWS SQS`, `Bash`, `BigCommerce`, `Chef`, `Craft CMS`, `Detox`, `Docker`, `Elasticsearch`, `Express`, `Gatsby`, `GitHub Actions`, `Grafana`, `GraphQL`, `Grunt / Gulp / Webpack`, `Inertia`, `Jest`, `Node.js`, `Pest`, `PHPUnit`, `Prismic`, `Progressive Web Apps`, `PubSub`, `React Native`, `RESTful APIs`, `Serverless Framework`, `Terraform`, `TDD`, `TypeScript`...
 
 ### Other skills
 
-`Architecture and prototyping`, `Code Review`, `DevOps`, `Group and workshop facilitation`, `Linux server administration`, `Mentoring`, `Observability`, `Open Source development`, `Package development`, `Pair and mob programming`, `Peer leadership`, `Documentation`...
+`Architecture and prototyping`, `Code Review`, `DevOps`, `Documentation`, `Group and workshop facilitation`, `Linux server administration`, `Mentoring`, `Observability`, `Open Source development`, `Package development`, `Pair and mob programming`, `Peer leadership`...
 
 ## Experience
 
