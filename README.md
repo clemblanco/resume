@@ -22,7 +22,7 @@ Naturally curious, I work to maintain a broad range of skills, from architecture
 
 ## Experience
 
-### » Technical Lead - Full Stack at [Pod Point](https://pod-point.com)
+### » Lead Software Engineer - Full Stack at [Pod Point](https://pod-point.com)
 #### January 2020 - January 2025
 
 - Led 4 successive squads of 3 to 5 engineers in an Agile environment, very much hands-on, focusing on various areas of the business, primarily B2C and B2B activities such as eCommerce, fleet management and partnerships. Liaised with the Product Owner, Domain Architect, and Agile Delivery Manager to scope incoming sprints from a technical perspective.
