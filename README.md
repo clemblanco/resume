@@ -2,7 +2,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/clemblanco) | [X](https://x.com/clemblanco) | [Email](mailto:mail@clem.io)
 
-I’m a passionate software developer who loves solving problems. I strive for maintainable user-centric products, clean and efficient codebases, and high-performing teams where standards, tools, and processes smooth the development to deployment journey.
+I’m a passionate software engineer who loves solving problems. I strive for maintainable user-centric products, clean and efficient codebases, and high-performing teams where standards, tools, and processes smooth the development to deployment journey.
 
 Naturally curious, I work to maintain a broad range of skills, from architecture to web and mobile tech, to DevOps, to team development. I'm a big fan of Laravel, praise open source and contribute when possible. Ultimately, I enjoy producing solid, meaningful products.
 ## Skills & Technologies
