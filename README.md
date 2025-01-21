@@ -1,6 +1,6 @@
 # Hey, I'm Clem 👋
 
-[LinkedIn](https://www.linkedin.com/in/clemblanco) | [X](https://x.com/clemblanco) | [Email](mailto:mail@clem.io)
+[LinkedIn](https://www.linkedin.com/in/clemblanco) | [X](https://x.com/clemblanco) | [Pinkary](https://pinkary.com/@clemblanco) | [Laradevs](https://laradevs.com/developers/97d9258a-4cc4-4044-b98b-55a7b51a21fa)
 
 I’m a passionate software engineer who loves solving problems. I strive for maintainable user-centric products, clean and efficient codebases, and high-performing teams where standards, tools, and processes smooth the development to deployment journey.
 
