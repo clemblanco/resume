@@ -73,13 +73,6 @@ Naturally curious, I work to maintain a broad range of skills, from architecture
 
 Here are a few open source contributions I'm pretty proud of.
 
-### ConfigCat package for Laravel
-
-Create and maintain a community package for ConfigCat feature flag Saas, getting the Laravel logo onto ConfigCat's homepage along the way.
-
-- https://github.com/pod-point/laravel-configcat
-- https://configcat.com/docs/sdk-reference/community/laravel
-
 ### Laravel 8.52 Contribution - Laravel News
 
 Article: https://laravel-news.com/laravel-8-52-0#content-model-broadcasting-methods
@@ -92,6 +85,13 @@ Article: https://laravel-news.com/laravel-8-52-0#content-model-broadcasting-meth
 Article: https://laravel-news.com/laravel-mail-export
 
 - https://github.com/Pod-Point/laravel-mail-export
+
+### ConfigCat package for Laravel
+
+Create and maintain a community package for ConfigCat feature flag Saas, getting the Laravel logo onto ConfigCat's homepage along the way.
+
+- https://github.com/pod-point/laravel-configcat
+- https://configcat.com/docs/sdk-reference/community/laravel
 
 ### Laravel AWS PubSub - Laravel Package
 
