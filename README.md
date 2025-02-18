@@ -75,7 +75,7 @@ Here are a few open source contributions I'm pretty proud of.
 
 ### Laravel 8.52 Contribution - [Laravel News](https://laravel-news.com/laravel-8-52-0#content-model-broadcasting-methods)
 
-- Model Broadcasting - Adding broadcastWith() and broadcastAs() support ([#38137](https://github.com/laravel/framework/pull/38137))
+- Model Broadcasting - Adding `broadcastWith()` and `broadcastAs()` support ([#38137](https://github.com/laravel/framework/pull/38137))
 - Ability to specify the broadcaster to use when broadcasting an event ([#38086](https://github.com/laravel/framework/pull/38086))
 
 ### Laravel Mail Export - [Laravel News](https://laravel-news.com/laravel-mail-export)
