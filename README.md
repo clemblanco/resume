@@ -80,18 +80,18 @@ Here are a few open source contributions I'm pretty proud of.
 
 ### Laravel Mail Export - [Laravel News](https://laravel-news.com/laravel-mail-export)
 
-- https://github.com/Pod-Point/laravel-mail-export
+- Package: https://github.com/Pod-Point/laravel-mail-export
 
 ### ConfigCat package for Laravel
 
 Create and maintain a community package for ConfigCat feature flag Saas, getting the Laravel logo onto ConfigCat's homepage along the way.
 
-- https://github.com/pod-point/laravel-configcat
-- https://configcat.com/docs/sdk-reference/community/laravel
+- Package: https://github.com/pod-point/laravel-configcat
+- Docs: https://configcat.com/docs/sdk-reference/community/laravel
 
 ### Laravel AWS PubSub - Laravel Package
 
-- https://github.com/Pod-Point/laravel-aws-pubsub
+- Package: https://github.com/Pod-Point/laravel-aws-pubsub
 
 ### Laravel Contributions
 
